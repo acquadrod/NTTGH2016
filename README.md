@@ -3,7 +3,7 @@ NTT Data Global Hackathon 2016
 Node server and arduino sketch for controlling a coffee machine
 
 Requirements: 
-- a MQTT broker (Mosca or Mosquitto)
+- a MQTT broker eg. [Mosca](https://github.com/mcollina/mosca)
 - node.js and npm
   
   
